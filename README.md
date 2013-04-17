@@ -1,0 +1,4 @@
+WindowGrabber
+=============
+
+Take a screenshot
